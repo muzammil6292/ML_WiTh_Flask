@@ -1,0 +1,11 @@
+a=['hyd']
+a.append('bangalore')
+a.remove('hyd')
+print(a)
+a.insert(1,'kerela')
+print(a)
+a.extend(['usa'])
+print(a)
+a*5
+a.pop(1)
+print(a)
