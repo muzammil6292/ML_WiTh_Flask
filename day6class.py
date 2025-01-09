@@ -18,7 +18,7 @@ for i in iterable:
     print(i)"""
 
 #check the below code list and display the string were the string letter is start with 'a' letter or contain 'a' letter with iterter
-m=["apple","banana","cherry","date","elderberry","fig","grape"]
+"""m=["apple","banana","cherry","date","elderberry","fig","grape"]
 for i in m:
     if i[0]=="a":
         print(i)
@@ -26,5 +26,7 @@ iterable=iter(m)
 print(iterable)
 for i in iterable:
     if "a" in i:
-        print(i)
+        print(i)"""
+
+
 
